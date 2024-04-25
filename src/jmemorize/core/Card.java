@@ -17,6 +17,7 @@
  * Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
  */
 package jmemorize.core;
+/* eman  */
 
 import java.util.Date;
 import java.util.List;
